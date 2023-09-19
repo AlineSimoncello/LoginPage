@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url('/img/back01.gif') no-repeat center center fixed;
+    background-image: url('/img/back01.gif') no-repeat center center fixed;
     background-size: cover;
     backdrop-filter: blur(2px);
 }
