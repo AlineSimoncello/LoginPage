@@ -6,9 +6,8 @@
 }
 
 body {
-    background: url('/img/fundo02.jpg') no-repeat center center fixed;
-    background-size: cover;
-    backdrop-filter: blur(2px);
+    background-image: url('/img/fundo02.jpg');
+    
 }
 
 #container {
